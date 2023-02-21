@@ -1,0 +1,90 @@
+{{ define "main" }}
+<!-- ####################################################################################################### -->
+<div class="wrapper row3">
+  <!-- ####################################################################################################### -->
+  <div id="featured_slide">
+    <div class="featured_box"><a href="#"><img src="/images/banner1.png" alt="" /></a>
+    </div>
+    <div class="featured_box"><a href="#"><img src="/images/banner2.png" alt="" /></a>
+    </div>
+    <div class="featured_box"><a href="#"><img src="/images/banner3.png" alt="" /></a>
+    </div>
+</div>
+<!-- ####################################################################################################### -->
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row4">
+  <div id="container" class="clear">
+    <!-- ####################################################################################################### -->
+    <div id="homepage" class="clear">
+      <div class="fl_left">
+        <h2 class="title">Quick Links</h2>
+        <div id="hpage_quicklinks">
+          <ul class="clear">
+            <li><a href="/">Beranda</a></li>
+            <li><a href="https://youtu.be/Wk1OWgr4OpI">Mars UNDA</a></li>
+            <li><a href="https://drive.google.com/drive/folders/149OZjiCL8pEbgOUSngzZJNVwLKD65tUY">Kode Etik dan Pedoman</a></li>
+            <li><a href="https://outlook.com/">Webmail</a></li>
+            <li><a href="http://cloud.unda.ac.id/uld">Layanan Disabilitas</a></li>
+            <li><a href="http://lapor.unda.ac.id/">Lapor 3 Dosa</a></li>
+            <li><a href="https://perpus.unda.ac.id/">Perpustakaan</a></li>
+            <li><a href="https://cloud.unda.ac.id/www/pedoman-akademik/">Pedoman Akademik</a></li>
+            <li><a href="http://elearning.unda.ac.id/">E-learning</a></li>
+            <li><a href="http://jurnal.unda.ac.id/">Jurnal Penelitian</a></li>
+            <li><a href="https://github.com/Universitas-Darwan-Ali/ubuntu-fxce-rdp">Github</a></li>
+            <li><a href="https://console.cloud.google.com/">Cloud PC</a></li>
+            <li><a href="https://youtu.be/nPQMhv5kphM">Cara Penggunaan</a></li>
+            <li><a href="http://unda.quest/">Metaverse</a></li>
+            <li><a href="https://drive.google.com/drive/folders/1_TE7NwbWW-zsGTwUO-lwaCuJwnn3DlMK?usp=sharing">Download Panduan Pendaftaran Online</a></li>
+            <li><a href="https://drive.google.com/drive/folders/112hLNXRgWDGJrRbEjHh4QO_IyFSsRrqT?usp=sharing">Download Panduan Pelaksanaan UTS/UAS</a></li>
+           
+          </ul>
+        </div>
+        <h2 class="title">PILIHAN PROGRAM STUDI</h2>
+        <div id="hpage_gallery">
+          <ul class="clear">
+            <li><a href="/program-studi-s1-sistem-informasi"><img src="images/1.png" alt="" /></a></li>
+            <li class="last"><a href="/program-studi-s1-manajemen"><img src="images/2.png" alt="" /></a></li>
+            <li><a href="/program-studi-s1-agribisnis"><img src="images/3.png" alt="" /></a></li>
+            <li class="last"><a href="/program-studi-d3-akuntansi"><img src="images/4.png" alt="" /></a></li>
+          </ul>
+        </div>
+        <h2 class="title">Informasi Lebih Lanjut > Follow Up Instagram Universitas Darwan Ali</h2>
+        <div id="hpage_socialize">
+          <ul>
+            <li><span>Instagram Kami:</span> <a href="https://www.instagram.com/unda.university/">www.instagram.com/unda.university</a></li>
+          </ul>
+          <p><strong>Reels, Story, dan Event Yang Akan Datang</strong></p>
+          <p><strong>Mekanisme Pendaftaran Mahasiswa Baru</strong></p>
+          <p></p>
+          <p class="form_hint"><a href="https://www.instagram.com/unda.university/">* Selengkapnya>></a></p>
+        </div>
+      </div>
+      <!-- ############### -->
+      <div class="fl_right">
+        <h2 class="title">Latest News</h2>
+        <div id="hpage_latestnews">
+          <ul>
+            <li>
+              <p class="latestnews">{{ range (first 5 (where .Site.RegularPages "Section" "posts")) }}
+              <div class="imgl"> {{if isset .Params "featured_image"}}
+                <img src="{{ .Params.featured_image }}" alt="" width="160px" height="80px">
+                {{ end }}
+              </div>
+              <a href="{{.Permalink}}" title="Free Website Templates">{{.Title}}</a>. {{.Summary }}</a>.</p>
+              <p> </p>
+              <span> {{.Date.Format "2006-01-02"}} </span>
+              <p class="readmore"><a href="{{.Permalink}}">Continue Reading &raquo;</a></p>
+              {{ end }}
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+
+
+{{ end }}

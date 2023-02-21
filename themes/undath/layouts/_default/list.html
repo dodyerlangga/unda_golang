@@ -1,0 +1,77 @@
+{{ define "main" }}
+<div class="wrapper row4">
+    <div id="container" class="clear">
+        <!-- ####################################################################################################### -->
+        <div id="left_column">
+            <div class="holder">
+                <h2 class="title">Quick Links</h2>
+                <ul class="nostart">
+                    <li><a href="/">Beranda</a></li>
+                    <li><a href="https://youtu.be/Wk1OWgr4OpI">Mars UNDA</a></li>
+                    <li><a href="https://drive.google.com/drive/folders/149OZjiCL8pEbgOUSngzZJNVwLKD65tUY">Kode Etik dan Pedoman</a></li>
+                    <li><a href="https://outlook.com/">Webmail</a></li>
+                    <li><a href="http://cloud.unda.ac.id/uld">Layanan Disabilitas</a></li>
+                    <li><a href="http://lapor.unda.ac.id/">Lapor 3 Dosa</a></li>
+                    <li><a href="https://perpus.unda.ac.id/">Perpustakaan</a></li>
+                    <li><a href="https://cloud.unda.ac.id/www/pedoman-akademik/">Pedoman Akademik</a></li>
+                    <li><a href="http://elearning.unda.ac.id/">E-learning</a></li>
+                    <li><a href="http://jurnal.unda.ac.id/">Jurnal Penelitian</a></li>
+                    <li><a href="https://github.com/Universitas-Darwan-Ali/ubuntu-fxce-rdp">Github</a></li>
+                    <li><a href="https://console.cloud.google.com/">Cloud PC</a></li>
+                    <li><a href="https://youtu.be/nPQMhv5kphM">Cara Penggunaan</a></li>
+                    <li><a href="http://unda.quest/">Metaverse</a></li>
+                    <li><a href="https://drive.google.com/drive/folders/1_TE7NwbWW-zsGTwUO-lwaCuJwnn3DlMK?usp=sharing">Download Panduan Pendaftaran Online</a></li>
+                    <li><a href="https://drive.google.com/drive/folders/112hLNXRgWDGJrRbEjHh4QO_IyFSsRrqT?usp=sharing">Download Panduan Pelaksanaan UTS/UAS</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- ############ -->
+        <div id="content">
+            <h1 class="title">{{.Title}}</h1>
+            <p class="latestnews">{{ range .Paginator.Pages }}
+            <div class="imgl"> {{if isset .Params "featured_image"}}
+                <img src="{{ .Params.featured_image }}" alt="" width="190px" height="90px">
+                {{ end }}
+            </div>
+            <a href="{{.Permalink}}" title="Free Website Templates">{{.Title}}</a>. {{.Summary }}</a>.
+            </p>
+            <p> </p>
+            <span> {{.Date.Format "2006-01-02"}} </span>
+            <p class="readmore"><a href="{{.Permalink}}">Continue Reading &raquo;</a></p>
+            {{ end }}
+            <div class="pagination">
+                <ul>
+                    {{template "_internal/pagination.html" . }}
+                    <li class="prev"> {{ if .Paginator.HasPrev}}<a href="{{ .Paginator.Prev.URL}}">&laquo; Previous</a>
+                        {{
+                        end }}</li>
+                        
+                    <li class="next"> {{ if .Paginator.HasNext}}<a href="{{ .Paginator.Next.URL}}">Next &raquo;</a> {{
+                        end
+                        }}</li>
+                </ul>
+                Halaman {{ .Paginator.PageNumber }} dari {{ .Paginator.TotalPages }}
+                
+            </div>
+        </div>
+        <!-- ############ -->
+        <div id="right_column">
+            <div class="holder">
+                <h2 class="title">LATEST NEWS</h2>
+                <ul>
+                    <li>
+                      <p class="latestnews">{{ range (first 5 (where .Site.RegularPages "Section" "posts")) }}
+    
+                      <a href="{{.Permalink}}" title="Free Website Templates">{{.Title}}</a>.</p>
+                      <p> </p>
+                      <span> {{.Date.Format "2006-01-02"}} </span>
+                      {{ end }}
+                    </li>
+                  </ul>
+            </div>
+        </div>
+        <!-- ####################################################################################################### -->
+    </div>
+</div>
+<!-- ####################################################################################################### -->
+{{ end }}

@@ -1,0 +1,127 @@
+@charset "utf-8";
+/*
+Template Name: Education Time
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Layout CSS
+*/
+
+@import url("navi.css");
+@import url("forms.css");
+@import url("tables.css");
+@import url("homepage.css");
+@import url("featured_slide.css");
+
+html{overflow-y:scroll;}
+body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#F8F8F2; background-color:#4b0303;}
+
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right;}
+.nostart{margin:0; padding:0; list-style-type:none;}
+
+.clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
+.clear{display:inline-block;}
+html[xmlns] .clear{display:block;}
+* html .clear{height:1%;}
+
+a{outline:none; text-decoration:none;}
+
+.fl_left, .imgl{float:left;}
+.fl_right, .imgr{float:right;}
+
+img{margin:0; padding:0; border:none;}
+.imgholder, .imgl, .imgr{padding:4px; border:1px solid #D7DBE0;}
+.imgl{margin:0 15px 15px 0; clear:left;}
+.imgr{margin:0 0 15px 15px; clear:right;}
+
+/* ----------------------------------------------Wrapper------------------------------------- */
+
+div.wrapper{display:block; width:100%; text-align:left; }
+div.wrapper-cpyr{display:block; width:100%; text-align:left; background-color:#4b0303;}
+div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
+.row1{color:#c25f5f; background:url("/layout/styles/images/header.jpg");}
+.row1 a{color:#F8F9F3;}
+.row2{color:#F8F9F3; background-color:#4b0303; border-top:1px solid #712b2b; border-bottom:1px solid #712b2b;}
+.row3{color:#FFFFFF; background-color:#4b0303; padding:15px 0}
+.row4{color:#777777; background-color:#F8F9F3; border-bottom:2px solid #4b0303;}
+.row5{padding:50px 0 30px 0; border-top:1px solid #F8F9F3; background-color:#4b0303;}
+
+/* ----------------------------------------------Generalise------------------------------------- */
+
+#header, #featured_slide, #container, #footer, #copyright{display:block; position:relative; width:960px; margin:0 auto;}
+
+/* ----------------------------------------------Header------------------------------------- */
+
+#header{padding:25px 0 30px 0;}
+#header h1, #header p, #header ul{margin:0; padding:0; list-style:none; line-height:normal;}
+#header h1{font-size:40px; font-variant:small-caps;}
+#header p{margin-top:4px;}
+#img{float: left; display: block; width: 45px; height: 45px; margin-right: 4px;}
+
+/* ----------------------------------------------Content------------------------------------- */
+#container{padding:30px 0;}
+#container h1, #container h2, #container h3, #container h4, #container h5, #container h6{color:#a98181; background-color:#F8F9F3;}
+#container a{color:#591f1f; background-color:#F8F9F3;}
+#container .title{display:block; width:100%; margin:0 0 20px 0; padding:0 0 8px 0; font-size:14px; text-transform:uppercase; border-bottom:5px solid #a98181;}
+#content{display:block; float:left; width:630px;}
+
+/* Comments */
+
+#comments{margin-bottom:40px;}
+#comments .commentlist{margin:0; padding:0;}
+#comments .commentlist ul{margin:0; padding:0; list-style:none;}
+#comments .commentlist li.comment_odd, #comments .commentlist li.comment_even{margin:0 0 10px 0; padding:15px; list-style:none;}
+#comments .commentlist li.comment_odd{color:#666666; background-color:#F7F7F7;}
+#comments .commentlist li.comment_odd a{color:#591f1f; background-color:#F7F7F7;}
+#comments .commentlist li.comment_even{color:#666666; background-color:#E8E8E8;}
+#comments .commentlist li.comment_even a{color:#591F58; background-color:#E8E8E8;}
+#comments .commentlist .author .name{font-weight:bold;}
+#comments .commentlist .submitdate{font-size:smaller;}
+#comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight:normal; text-transform:none;}
+#comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
+
+/* ----------------------------------------------Column------------------------------------- */
+
+#column{display:block; float:right; width:300px;}
+#column .holder, #column #featured{display:block; width:300px; margin-bottom:20px;}
+#column .holder h2.title{display:block; width:100%; height:65px; margin:0; padding:15px 0 0 0; font-size:20px; text-transform:none; line-height:normal; border-bottom:1px dotted #999999;}
+#column .holder h2.title img{float:left; margin:-15px 8px 0 0; padding:5px; border:1px solid #999999;}
+#column div.imgholder{display:block; width:290px; margin:0 0 10px 0;}
+#column .holder p.readmore{display:block; width:100%; font-weight:bold; text-align:right; line-height:normal;}
+
+/* Featured Block */
+
+#column #featured ul, #column #featured h2, #column #featured p{margin:0; padding:0; list-style:none; color:#666666; background-color:#F9F9F9;}
+#column #featured a{color:#ee0202; background-color:#F9F9F9;}
+#column #featured li{display:block; width:250px; margin:0; padding:20px 25px; color:#666666; background-color:#F9F9F9;}
+#column #featured li p.imgholder{display:block; width:240px; height:90px; margin:20px 0 15px 0; padding:4px; border:1px solid #CCCCCC;}
+#column #featured li h2{margin:0; padding:0 0 8px 0; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif; line-height:normal; border-bottom:1px dotted #999999;}
+#column #featured p.readmore{display:block; width:100%; margin-top:15px; font-weight:bold; text-align:right; line-height:normal;}
+#column #latestnews{display:block; width:100%; margin:0; padding:0; list-style:none;}
+#column #latestnews li{display:block; margin:0 0 20px 0; padding:0 0 15px 0; border-bottom:1px dotted #CCCCCC;}
+#column #latestnews li.last{margin-bottom:0;}
+#column #latestnews p{margin:0 0 5px 0; padding:0;}
+#column #latestnews p.readmore{margin:0; padding:0;}
+#column #latestnews .imgl{margin:0 10px 10px 0; padding:4px;}
+
+/* ----------------------------------------------Footer------------------------------------- */
+
+#footer{line-height:2em; background:url("images/footer_bg.gif") 380px 0 repeat-y;}
+#footer, #footer a{color:#F8F8F2; background-color:#4b0303;}
+#footer h2, #footer p, #footer ul, #footer a, #footer address{margin:0; padding:0; font-weight:normal; list-style:none; font-style:normal;}
+#footer h2{margin:0 0 30px 0; padding:0; font-size:22px; color:#a97f7f; background-color:#4b0303;}
+#footer .foot_contact{display:block; float:left; width:380px; margin:0 40px 0 0; padding:0;}
+#footer .foot_contact address{margin-bottom:30px;}
+#footer .footbox{display:block; float:left; width:170px; margin:0 15px 0 0; padding:0; font-size:12px;}
+#footer .footbox h2{margin-bottom:20px; font-size:14px; text-transform:uppercase;}
+#footer .last{margin:0;}
+
+/* ----------------------------------------------Copyright------------------------------------- */
+
+#copyright{padding:15px 0; border-top:1px solid #712b2b;}
+#copyright p{margin:0; padding:0;}
+#copyright, #copyright a{color:#a97f7f; background-color:#4b0303;}

@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Universitas Darwan Ali'
+theme = 'undath'
+summaryLength = 30
+paginate =  4
+
+[params]
+    Description = "Universitas Darwan Ali"
+    favicon = "favicon.png"

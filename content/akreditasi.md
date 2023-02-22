@@ -10,7 +10,7 @@ Akreditasi Institusi dan Program Studi
 ##### _AKREDITASI - INSTITUSI_
 | INSTITUSI | NILAI NEW | 1x |
 | ------------- | ------------- | ------------- |
-|               |               |               |
+|     Tes          |               |               |
 
 
 

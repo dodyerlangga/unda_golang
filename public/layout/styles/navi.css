@@ -1,0 +1,99 @@
+@charset "utf-8";
+/*
+Template Name: Education Time
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Navigation CSS
+*/
+
+#topnav{display:block; position:relative; width:960px; margin:0 auto; font-size:12px; z-index:1000;}
+#topnav li li a:hover{color:#c25f5f; background-color:#530707;}
+#topnav li a:link, #topnav li a:visited, #topnav li a:hover{display:block; margin:0; padding:5px 1; padding-right: 7px; padding-left: 7px; background-color:#530707;}
+#topnav .parent {
+	display: block;
+	position: relative;
+	float: left;
+	line-height: 30px;
+	background-color: #d84f4f;
+	border-right: #CCC 1px solid;
+}
+
+#topnav .parent a {
+	margin: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#topnav .parent:hover>ul {
+	display: block;
+	position: absolute;
+}
+
+#topnav .child {
+	display: none;
+}
+
+#topnav .child li {
+	background-color: #E4EFF7;
+	line-height: 30px;
+	border-bottom: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	width: 100%;
+}
+
+#topnav .child li a {
+	color: #ffffff;
+}
+
+#topnav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0px;
+	min-width: 10em;
+}
+
+#topnav ul ul ul {
+	left: 100%;
+	top: 0;
+	margin-left: 1px;
+}
+
+#topnav li:hover {
+	background-color: #95B4CA;
+}
+
+#topnav .parent li:hover {
+	background-color: #F0F0F0;
+}
+
+#topnav .expand {
+	font-size: 12px;
+	float: right;
+	margin-right: 5px;
+}
+/* ----------------------------------------------Column Navigation------------------------------------- */
+
+#column .subnav{display:block; width:250px; padding:25px; background-color:#F7F7F7; margin-bottom:30px;}
+#column .subnav h2{margin:0 0 20px 0; padding:0 0 14px 0; font-size:20px; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif; color:#8199A9; background-color:#F7F7F7; line-height:normal; border-bottom:1px dotted #666666;}
+#column .subnav ul{margin:0; padding:0; list-style:none;}
+#column .subnav li{margin:0 0 3px 0; padding:0;}
+#column .subnav ul ul, #column .subnav ul ul ul, #column .subnav ul ul ul ul, #column .subnav ul ul ul ul ul{border-top:none; padding-top:0;}
+#column .subnav a{display:block; margin:0; padding:5px 10px 5px 20px; color:#666666; background:url("images/purple_file.gif") no-repeat 10px center #F7F7F7; text-decoration:none; border-bottom:1px dotted #666666;}
+#column .subnav a:hover{color:#591F58; background-color:#F7F7F7;}
+#column .subnav ul ul a, #column .subnav ul ul ul a, #column .subnav ul ul ul ul a, #column .subnav ul ul ul ul ul a{background:url("images/black_file.gif") no-repeat #F7F7F7;}
+#column .subnav ul ul a{padding-left:40px; background-position:30px center;}
+#column .subnav ul ul ul a{padding-left:50px; background-position:40px center;}
+#column .subnav ul ul ul ul a{padding-left:60px; background-position:50px center;}
+#column .subnav ul ul ul ul ul a{padding-left:70px; background-position:60px center;}
+
+/* ----------------------------------------------Pagination------------------------------------- */
+
+.pagination{display:block; width:100%; text-align:center; clear:both;}
+.pagination ul{margin:0; padding:0; list-style:none;}
+.pagination li{display:inline;}
+.pagination .next{margin:0;}
+.pagination a{display:inline-block; padding:2px 5px 3px 5px; margin:0 2px 0 0; border:1px solid #D8D9DE;}
+.pagination .current, .pagination .splitter{padding:6px; margin:0 2px 0 0;}
+.wrapper .pagination a:hover, .pagination .current, .pagination .splitter{color:#9B9B9B; background-color:#F8F9F3;}

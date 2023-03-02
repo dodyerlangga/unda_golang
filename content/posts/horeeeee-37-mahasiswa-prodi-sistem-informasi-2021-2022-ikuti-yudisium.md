@@ -3,9 +3,10 @@ title: 'Horeeeee….  37 Mahasiswa Prodi Sistem Informasi 2021/2022 Ikuti Yudisi
 date: Thu, 01 Sep 2022 15:22:30 +0000
 draft: false
 tags: ['Berita']
+featured_image: "/images/post/JS_L2597-1-scaled-1-1024x592.jpg"
 ---
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2597-1024x592.jpg)
+{{< figure src="/images/post/IMG_2705-scaled-1-1024x717.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Momen Yudisium Sistem Informasi Angkatan ke-14 tahun akademik 2021/2022 oleh mahasiswa Kelas Pagi. | Foto : Dok. UNDA University
 
@@ -13,21 +14,21 @@ Prodi Sistem Informasi UNDA University menggelar prosesi yudisium bagi calon wis
 
 Dalam prosesi tersebut, dibacakan putusan dan penetapan nama-nama yang telah memenuhi syarat akademik, juga telah menyelesaikan proses perkuliahan dengan baik, dan dinyatakan lulus menyandang gelar Sarjana Komputer (S.Kom).
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2377-1024x713.jpg)
+{{< figure src="/images/post/JS_L2377-scaled-1-1024x713.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Ketua Jurusan Sistem Informasi, Minarni dalam sambutan Yudisium Sistem Informasi angkatan Ke-14 tahun akademik 2021/2022. | Foto : Dok. UNDA University
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2381-1-1024x664.jpg)
+{{< figure src="/images/post/JS_L2381-1-scaled-1-1024x664.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Rektor UNDA University, Dr. Wendy Kesuma dalam sambutan Yudisium Sistem Informasi angkatan Ke-14 tahun akademik 2021/2022. | Foto : Dok. UNDA University
 
 “Tahun ini, UNDA University berhasil mencetak sebanyak 37 mahasiswa Sistem Informasi angkatan ke-14, Dengan rasa bahagia, mahasiswa sistem informasi mampu menyelesaikan dari keseluruhan SKS dan bekas yudisium yang sudah ditetapkan kampus termasuk juga Sertifikasi Oracle dan Google Crowd Source.” ujar Kepala Jurusan Sistem Informasi Minarni dalam sambutannya.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2561-1024x735.jpg)
+{{< figure src="/images/post/JS_L2561-scaled-1-1024x735.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Penyerahan penghargaan untuk mahasiswa peraih IPK tertinggi. | Foto : Dok. UNDA University
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2571-1024x681.jpg)
+{{< figure src="/images/post/JS_L2571-scaled-1-1024x680.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Penyerahan penghargaan untuk mahasiswa peraih Tugas akhir terbaik. | Foto : Dok. UNDA University
 
@@ -35,13 +36,9 @@ Selain penyerahan dalam bentuk selempang dan plakat, di momen Yudisium juga memb
 
 Minarni berpesan untuk selalu mengembangkan diri dengan menyesuaikan perkembangan teknologi. Menjaga nama baik civitas UNDA University dan selalu mengingatkan untuk tidak melupakan para dosen-dosen pendahulu dan sekarang.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/JS_L2601-1024x587.jpg)
+{{< figure src="/images/post/JS_L2597-1-scaled-1-1024x592.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Momen Yudisium Sistem Informasi Angkatan ke-14 tahun akademik 2021/2022 oleh mahasiswa Kelas Malam. | Foto : Dok. UNDA University
-
-![](https://unda.ac.id/2/wp-content/uploads/2022/09/IMG_2705-1024x717.jpg)
-
-Momen selfie bersama geng angkatan MABA 2018 | Foto : Fredric Chia
 
 “Selamat semua yang Yudisium hari ini, semoga berkah ilmunya, berkah pula perjalanan kalian setelah ini, selamat berjuang untuk menuju kehidupan selanjutnya. Jangan lupa bersyukur, selalu rendah hati, jujur, sopan dan selalu semangat. Dan yang terpenting para dosen tidak banyak berharap dengan kalian, tidak sedikitpun berharap di berikan hadiah dan apapun itu bentuknya, cukup dengan melihat kalian sukses dengan segala kemampuan kalian dan jalan kalian masing-masing. Kami bukan berharap dengan balas budi tapi cukup dengan tidak melupakan dosen itupun membuat bahagia para dosen.” ujarnya.
 

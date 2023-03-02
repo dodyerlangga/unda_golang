@@ -3,11 +3,12 @@ title: 'GASPOL! Tim Debat bahasa Inggris UNDA University Alfi - La Ode lolos ke 
 date: Fri, 29 Jul 2022 06:56:34 +0000
 draft: false
 tags: ['Berita', 'mahasiswa', 'NUDC', 'NUDC 2022', 'prestasi', 'UNDA', 'undauniversity']
+featured_image: "/images/post/290939063_780527132950830_1294420274486601734_n-1-1024x1024.jpg"
 ---
 
 SAMPIT - Tim debat bahasa Inggris National University Debating Championship (NUDC) UNDA University dengan pasangan Alfi Rizkiyanoor Hartandy dan La Ode Maulana Husein merupakan salah satu yang mewakili Kopertis Wilayah XI (Kalimantan) dalam debat Bahasa Inggris ke level nasional.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/07/290939063_780527132950830_1294420274486601734_n-1-1024x1024.jpg)
+{{< figure src="/images/post/290939063_780527132950830_1294420274486601734_n-1-1024x1024.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Sumber: Instagram @unda.university
 

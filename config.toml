@@ -1,4 +1,4 @@
-baseURL = 'https://web.unda.ac.id/'
+baseURL = 'https://web.unda.ac.id'
 languageCode = 'en-us'
 title = 'Universitas Darwan Ali'
 theme = 'undath'

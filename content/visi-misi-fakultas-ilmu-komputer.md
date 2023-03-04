@@ -4,8 +4,6 @@ date: Fri, 13 Jan 2023 07:27:01 +0000
 draft: false
 ---
 
-VISI MISI FAKULTAS ILMU KOMPUTER
---------------------------------
 
 Visi
 

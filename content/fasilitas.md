@@ -4,8 +4,6 @@ date: Thu, 02 Feb 2023 02:58:07 +0000
 draft: false
 ---
 
-Fasilitas
-=========
 
 1\. Laboratorium Komputer
 -------------------------

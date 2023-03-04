@@ -4,8 +4,6 @@ date: Sat, 07 Jan 2023 07:05:49 +0000
 draft: false
 ---
 
-VISI MISI UNIVERSITAS DARWAN ALI
---------------------------------
 
 Visi  
 Menjadi Universitas unggul berbasis ilmu pengetahuan dan teknologi melalui upaya menciptakan masyarakat yang cerdas, berakhlak mulia, kompeten, dan adaptif sehingga berkontribusi pada kesejahteraan dan pembangunan bangsa

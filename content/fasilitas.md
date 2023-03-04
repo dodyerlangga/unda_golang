@@ -34,6 +34,7 @@ Memiliki daya tampung sebanyak 5 orang dengan luas ruangan 4 x 8 m2. Terdapat 5 
 
 memiliki daya tampung sebanyak 47 orang dengan luas ruangan 4 x 8 m2. Terdapat 30 orang yang dapat dilayani pada jam layanan 08.00 - 17.00. Fasilitas yang dimiliki antara lain 47 unit kursi, 22 unit meja, 3 unit AC, 2 unit LCD, 3 unit papan tulis, 1 unit printer, dan 2 unit lemari.
 
+{{< figure src="/images/fasilitas/labbahasa.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 
 5\. Ruang Kelas

@@ -4,11 +4,8 @@ date: Mon, 07 Nov 2022 21:56:00 +0000
 draft: false
 ---
 
-PEDOMAN AKADEMIK
-----------------
 
 **PEDOMAN AKADEMIK**
-
 **UNIVERSITAS DARWAN ALI** 
 
 Rektor Universitas Darwan Ali menetapkan Peraturan Akademik bagi Dosen dan Mahasiswa Universitas Darwan Ali meliputi hal-hal berikut :

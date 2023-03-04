@@ -3,11 +3,12 @@ title: 'Widih.... Keren…. Pemerintah dan Kominfo Kalteng Gelar Roadshow Geraka
 date: Sun, 07 Aug 2022 03:08:03 +0000
 draft: false
 tags: ['Berita']
+featured_image: "/images/post/296878701_109359948538498_599223481119900742_n-1024x1024.jpg"
 ---
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/08/296878701_109359948538498_599223481119900742_n-1024x1024.jpg)
-
 PALANGKARAYA – Pemerintah Provinsi dan Kominfo Kalimantan Tengah Adakan Roadshow Gerakan Nasional #1000 Startup untuk menggali potensi di daerah itu. Roadshow Gerakan Nasional #1000 Startup merupakan inovasi digital membangun potensi daerah. Kegiatan ini dilaksanakan secara daring melalui aplikasi ZOOM, Jumat (6/8/2022).
+
+{{< figure src="/images/post/296878701_109359948538498_599223481119900742_n-1024x1024.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Kepala Dinas Kominfo Palangkaraya Fifi Arfina dan Kominfo Kotim Multazam membuka kegiatan roadshow gerakan nasional 1000 startup digital dengan tema "Inovasi digital dalam membangun potensi daerah" yang dilakukan secara virtual ZOOM.
 

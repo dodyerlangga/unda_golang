@@ -3,6 +3,7 @@ title: 'Wawancara Eksklusif Dr. Wendy Kesuma Rektor UNDA University Periode 2022
 date: Sat, 30 Jul 2022 10:27:13 +0000
 draft: false
 tags: ['Berita', 'Kampus', 'Rektor', 'UNDA', 'unda university', 'undauniversity', 'universitas darwan ali', 'wawancara eksklusif']
+featured_image: "/images/post/Picsart_22-07-30_10-26-22-692-1-scaled-1-1024x576.jpg"
 ---
 
 Sejak 21 Maret 2022 lalu, Dr. Wendy Kesuma yang merupakan Putra dari Rektor sebelumnya Dr. Ali Kesuma secara resmi dilantik menjadi Rektor UNDA University. Pada kesempatan ini secara ekslusif di Hari Dies Natalis UNDA University ke-14 tahun, salah satu Mahasiswa UNDA University yang aktif Jurnalistik Fredric Leonardo berkesempatan mewawancarai Dr. Wendy Kesuma di Ruang Rektor.
@@ -11,7 +12,7 @@ Sejak 21 Maret 2022 lalu, Dr. Wendy Kesuma yang merupakan Putra dari Rektor sebe
 
 Betul, saya itu dari dulu suka mengajar, saya mengajar di kampus ini sejak saya lulus S2 sejak usia 21 tahun saya sudah mengajar selama 9 tahun di kampus ini. Jadi saya sudah melihat bagaimana perjuangannya dari nol kampus ini didirikan.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/07/276967628_108271608493628_5925571376577042848_n.jpg)
+{{< figure src="/images/post/276967628_108271608493628_5925571376577042848_n.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Momen pelantikan Rektor UNDA University, Dr. Wendy Kesuma Maret 2022 lalu | Foto: Dok. UNDA University
 
@@ -25,7 +26,7 @@ Dulu itu ada kerusuhan dan itu ngeri banget. Jadi, akar masalah kerusuhan itu ka
 
 Pada tahun 2000 itu sebelumnya STIE Wijaya Kesuma. Jadi dulu itu hanya membuka jurusan Manajemen saja terus buka jurusan Sistem Informasi yakni STMIK Wijaya Kesuma. Pada tahun 2008 kedua kampus STIE dan STMIK Wijaya Kesuma dgabung menjadi Universitas Darwan Ali.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/07/276325865_271304015193922_5870386638624690699_n-1024x576.jpg)
+{{< figure src="/images/post/276325865_271304015193922_5870386638624690699_n-1024x576.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Dr. Wendy Kesuma resmi menjabat sebagai Rektor UNDA University periode 2022-2026. Wendy telah mengucapkan sumpah sebagai Rektor, Selain itu, juga dilakukan serah terima jabatan dari Rektor sebelumnya Dr. Ali Kesuma kepada Dr. Wendy Kesuma. | Dok. UNDA University
 
@@ -43,7 +44,7 @@ Mungkin untuk 4 atau 5 tahun kedepan, ketika saya mengajukan diri untuk sebagai 
 
 Tapi, secara basicnya yang sudah ada perubahan yang mendasar, Saya ingin meningkatkan prestasi mahasiswa itu yang saya prioritaskan, dalam artian begini semua lomba itu saudah saya buat surat keputusan rektor semua lomba diikuti oleh mahasiswa UNDA University dibayarin oleh kampus, Jadi, sehingga berberapa ada yang sewa kostumnya, membiayai pelatih semuanya itu dibiayain kampus itukan non-akademik seperti seni tari terus ada yang E-Sports, selain itu untuk yang akademik ada lomba debat bahasa Inggris kita daftarkan juga secara gratis.
 
-![](https://unda.ac.id/2/wp-content/uploads/2022/07/Picsart_22-07-30_10-26-22-692-1-1-1024x576.jpg)
+{{< figure src="/images/post/Picsart_22-07-30_10-26-22-692-1-scaled-1-1024x576.jpg" alt="deskripsi gambar" width="450" height="450" >}}
 
 Foto: Fredric
 

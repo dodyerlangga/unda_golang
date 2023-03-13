@@ -33,7 +33,7 @@
                 <img src="{{ .Params.featured_image }}" alt="" width="190px" height="90px">
                 {{ end }}
             </div>
-            <a href="{{.Permalink}}" title="Free Website Templates">{{.Title}}</a>. {{.Summary }}</a>.
+            <a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a>. {{.Summary }}</a>.
             </p>
             <p> </p>
             <span> {{.Date.Format "2006-01-02"}} </span>
@@ -62,7 +62,7 @@
                     <li>
                       <p class="latestnews">{{ range (first 5 (where .Site.RegularPages "Section" "posts")) }}
     
-                      <a href="{{.Permalink}}" title="Free Website Templates">{{.Title}}</a>.</p>
+                      <a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a>.</p>
                       <p> </p>
                       <span> {{.Date.Format "2006-01-02"}} </span>
                       {{ end }}

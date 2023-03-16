@@ -18,6 +18,7 @@ Memiliki daya tampung sebanyak 37 orang dengan luas ruangan 8 x 6 m2. Terdapat 3
 Memiliki daya tampung sebanyak 5 orang dengan luas ruangan 4 x 8 m2. Terdapat 5 orang yang dapat dilayani pada jam layanan 08.00 - 17.00. Fasilitas yang dimiliki antara lain 5 unit komputer, 5 unit kursi, 5 unit meja, 1 unit LCD, dan 1 unit AC.
 
 {{< figure src="/images/fasilitas/labmultim.jpeg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/lab-penelitian.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 
 3\. Laboratorium Penelitian dan PkM Bidang Multimedia
@@ -41,12 +42,15 @@ memiliki daya tampung sebanyak 47 orang dengan luas ruangan 4 x 8 m2. Terdapat 3
 memiliki daya tampung sebanyak 36 orang dengan luas ruangan 6 x 9 m2. Terdapat 36 orang yang dapat dilayani pada jam layanan 08.00 - 22.00. Fasilitas yang dimiliki antara lain 22 unit meja, 36 unit kursi, 2 unit AC, 1 unit LCD, dan Wifi 2 titik (masing-masing 100Mbps).
 
 {{< figure src="/images/fasilitas/rkelas.jpeg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/ruangkelas1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 6\. Ruang Sidang
 ----------------
 
 memiliki daya tampung sebanyak 24 orang dengan luas ruangan 6 x 6 m2. Terdapat 5 orang yang dapat dilayani pada jam layanan 08.00 - 22.00. Fasilitas yang dimiliki antara lain 12 unit meja, 24 unit kursi, 2 unit AC, 1 unit LCD, 1 unit lemari, dan 1 unit papan tulis.
 
+{{< figure src="/images/fasilitas/ruang-sidang.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/ruang-sidang1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 
 7\. Ruang Teleconference
@@ -54,7 +58,7 @@ memiliki daya tampung sebanyak 24 orang dengan luas ruangan 6 x 6 m2. Terdapat 5
 
 memiliki daya tampung sebanyak 41 orang dengan luas ruangan 6 x 9 m2. Terdapat 30 orang yang dapat dilayani pada jam layanan 08.00 - 22.00. Fasilitas yang dimiliki antara lain 1 unit Alat televisi, 1 unit proyektor, dan 1 unit komputer.
 
-{{< figure src="/images/fasilitas/rteleconf.jpeg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/videoconference.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 8\. Perpustakaan Universitas Darwan Ali
 ---------------------------------------
@@ -75,13 +79,16 @@ memiliki kapasitas 176 orang dan ukuran ruangan 12 x 18 meter. Fasilitas yang te
 
 memiliki kapasitas 40 orang dan ukuran ruangan 8 x 8 meter. Terdapat 5 meja dan kursi serta fasilitas seperti 1 komputer, 1 printer, 1 kipas angin, 1 lemari. Jam layanan ruang BEM adalah pada pukul 08.00 - 22.00.
 
-
+{{< figure src="/images/fasilitas/sekre-bem.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/sekre-bem1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 11\. Ruang UKM Musik Universitas Darwan Ali
 -------------------------------------------
 
 memiliki kapasitas 15 orang dan ukuran ruangan 3 x 8 meter. Terdapat 5 meja dan kursi serta fasilitas seperti 2 gitar, 1 bass, 1 set drum, 1 keyboard, 2 mix, 1 set sound system, dan 1 cajon. Jam layanan ruang UKM Musik adalah pada pukul 11.00 - 22.00.
 
+{{< figure src="/images/fasilitas/sekre-musik.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/sekre-musik1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 
 12\. Ruang UKM Mapala
@@ -89,21 +96,22 @@ memiliki kapasitas 15 orang dan ukuran ruangan 3 x 8 meter. Terdapat 5 meja dan 
 
 memiliki kapasitas 40 orang dan ukuran ruangan 8 x 8 meter. Terdapat 2 meja dan 2 kursi serta fasilitas seperti tikar 1, lemari 1. Bisa digunakan oleh maksimal 5 orang , jam layanan ruang UKM Musik adalah pada pukul 11.00 - 22.00.
 
-{{< figure src="/images/fasilitas/rukmmapala.jpeg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/sekre-mapala.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/sekre-mapala1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 13\. Ruang UKM Germani
 ----------------------
 
 merupakan ruang dengan kapasitas 40 orang dan ukuran 8 x 8 meter. Ruangan ini dilengkapi dengan 2 buah meja, 2 buah kursi, 1 buah tikar, dan 1 buah lemari. Bisa digunakan oleh maksimal 5 orang dan tersedia pada jam 11.00 - 22.00.
 
-
+{{< figure src="/images/fasilitas/germani.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 14\. Ruang UKM Multimedia
 -------------------------
 
 juga merupakan ruang dengan kapasitas 40 orang dan ukuran 8 x 8 meter. Ruangan ini dilengkapi dengan 2 buah meja, 2 buah kursi, 1 buah tikar, 1 buah lemari, 1 buah kamera, dan 2 buah tripod. Bisa digunakan oleh maksimal 5 orang dan tersedia pada jam 11.00 - 22.00.
 
-
+{{< figure src="/images/fasilitas/sekre-multimedia.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 15\. Ruang UKM E-Sport:
 -----------------------
@@ -124,7 +132,8 @@ memiliki kapasitas 10 orang dan ukuran 3 x 4 meter. Ruangan ini dilengkapi denga
 
 memiliki kapasitas 40 orang dan ukuran 8 x 8 meter. Ruangan ini dilengkapi dengan 2 buah meja, 2 buah kursi, 1 buah tikar, 1 buah lemari, dan perlengkapan volly sebanyak 2 set. Bisa digunakan oleh maksimal 10 orang dan tersedia pada jam 11.00 - 22.00.
 
-
+{{< figure src="/images/fasilitas/sekre-futsal.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/sekre-futsal1.jpg" alt="deskripsi gambar" width="450" height="300" >}}
 
 18\. Ruang UKM Keagamaan
 ------------------------
@@ -139,6 +148,7 @@ memiliki kapasitas 40 orang dan ukuran 8 x 8 meter. Ruangan ini dilengkapi denga
 Fasilitas ini memiliki kapasitas 20 orang, dengan ukuran 6 x 8 meter. Fasilitas ini dapat ditempati oleh lebih dari 40 orang dan buka 24 jam. Fasilitas yang tersedia meliputi karpet sajadah (4), Al-Qur’an (5), tempat wudhu (2), mukenah (5), AC (1), rak sepatu/sendal (1), sapu (1), dan tirai (2).
 
 {{< figure src="/images/fasilitas/mushola.jpg" alt="deskripsi gambar" width="450" height="300" >}}
+{{< figure src="/images/fasilitas/mushola1.png" alt="deskripsi gambar" width="450" height="300" >}}
 
 20\. Ruang Dosen
 ----------------

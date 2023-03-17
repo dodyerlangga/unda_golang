@@ -24,3 +24,4 @@ Anggota :
 2. Minarni, S.Kom., M.M.
 3. Agung Purwanto, M.Kom.
 4. Selvi Yunita, M.Kom.
+5. Lukman Bachtiar, S.Kom., M.M., M.Kom.
